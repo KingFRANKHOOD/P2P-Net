@@ -44,3 +44,11 @@ Converting fiat to stark-based cryptocurrencies and vice versa can be a hassle d
 - Analytics & Insights: Access real-time market data, historical trends, and performance analytics for informed decision-making.
 
 - Dispute Resolution: A robust mechanism for conflict resolution and mediation to handle any transaction issues efficiently.
+
+
+## SETUP & INSTALLATION
+```
+ git clone https://github.com/KingFRANKHOOD/P2P-Net.git
+ cd P2P-Net
+```
+
